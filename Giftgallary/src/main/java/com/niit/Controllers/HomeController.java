@@ -26,4 +26,10 @@ public class HomeController
 		public String footerPage(){
 			return "footer";
 		}
+		
+		@RequestMapping("/contactus")
+		
+		public String contactUs(){
+			return "contactus";
+		}
 }

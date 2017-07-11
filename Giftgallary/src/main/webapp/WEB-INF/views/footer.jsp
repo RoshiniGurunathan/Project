@@ -24,23 +24,25 @@ font-family:tahoma;
 font-weight:bold;
 }
 
+
 </style> 
 </head>
 <body>
 <!-- - --// footer..........//---> 
+<div class="container-fluid">
  <footer class="jumbotron">
    <div class="row">
 		 <div class="col-sm-4" align="center">
 		 <h5><a href="/aboutus">About Us</a></h5>
- 			<h5><a href="ContactUs.html">FAQ</a></h5>
+ 			<h5><a href="contactus">FAQ</a></h5>
 			 <h5><a href="#">Payment</a></h5>
  			<img src="resources\images\footer\pay.png" width="50" height="25"></div>
  
   	<div class="col-sm-4" align="center">
-  	<h5><a href="ContactUs.html">Contact Us</a></h5>
-  			<h5><a href="ContactUs.html">Head Office</a></h5>
- 		 <h5><a href="ContactUs.html">Branch</a></h5>
- 		 <h5><a href="ContactUs.html"><span class="glyphicon glyphicon-envelope ">Mail Us</span></a></h5></div>
+  	<h5><a href="contactus">Contact Us</a></h5>
+  			<h5><a href="contactus">Head Office</a></h5>
+ 		 <h5><a href="contactus">Branch</a></h5>
+ 		 <h5><a href="contactus"><span class="glyphicon glyphicon-envelope ">Mail Us</span></a></h5></div>
   
   	<div class="col-sm-4">
   	<h5>Stay in Touch</h5>
@@ -78,7 +80,7 @@ font-weight:bold;
 <div class="container-fluid  text-center">
 <h4>Copy Right Reserved @2017</h4>
 </div>
-
+</div>
 
 </body>
 </html>
